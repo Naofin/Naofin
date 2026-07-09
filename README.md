@@ -2,11 +2,11 @@
 <h1 align="left">Hi there, I'm Naofin Hassan</h1>
 
 <!-- Subtitle -->
-<h3>Full-Stack Developer</h3>[cite: 1]
+<h3>Full-Stack Developer</h3>
 
 <!-- About Me Description -->
 <p align="left">
-I am an aspiring Full-Stack Developer focused on learning and building web applications using ASP.NET Core, Angular, and React[cite: 1]. I love coding, solving problems, and exploring new technologies to build modern user experiences[cite: 1].
+I am an aspiring Full-Stack Developer focused on learning and building web applications using ASP.NET Core, Angular, and React. I love coding, solving problems, and exploring new technologies to build modern user experiences.
 </p>
 
 <!-- Visit My Portfolio Button (Optional) -->
