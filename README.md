@@ -6,11 +6,10 @@
 
 <!-- About Me Description -->
 <p align="left">
-I am an aspiring Full-Stack Developer focused on learning and building web applications using ASP.NET Core, Angular, and React. I love coding, solving problems, and exploring new technologies to build modern user experiences.
+I am a passionate Full-Stack Developer who loves to build things for the web.  I recently completed intensive training in ASP.NET Core, Angular, and React. Right now, I am focusing on building real-world projects, writing clean code, and growing as a developer. Feel free to check out my repositories!
 </p>
 
 <!-- Visit My Portfolio Button (Optional) -->
-<!-- আপনার পোর্টফোলিও লিংক থাকলে href=" " এর ভেতর বসিয়ে দিতে পারেন, না থাকলে এই অংশটুকু বাদ দিতে পারেন -->
 <p align="left">
   <a href="https://github.com/Naofin" target="_blank">
     <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio" />
@@ -33,5 +32,3 @@ I am an aspiring Full-Stack Developer focused on learning and building web appli
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-Skills: C# / ASP.NET CORE / ANGULAR / REACT / NODE.JS / SQL SERVER / MONGODB
